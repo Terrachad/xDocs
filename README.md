@@ -10,15 +10,17 @@
 5. 🕸️ [Snippets (Code to Copy)](#snippets)
 6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
-<div id="introduction">
+## <div id="introduction">
+  <h2>⚙️ <a name="tech-stack">Intro</a></h2>
+ 
  <h1>A real-time collaborative document editor that's secure, responsive, and built with modern web technologies for seamless team productivity.</h1>
 </div>
 
 <div id="tech-stack">
-  <h2>⚙️ <a name="tech-stack">Powering Your Productivity: Our Tech Stack</a></h2>
+  <h2>⚙️ <a name="tech-stack">Tech Stack</a></h2>
 
   <div>
-    <strong>Next.js</strong>: Elevate your web development with the speed and simplicity of Next.js, ensuring your applications are fast, scalable, and SEO-friendly.
+    <h2><strong>Next.js</strong>: Elevate your web development with the speed and simplicity of Next.js, ensuring your applications are fast, scalable, and SEO-friendly.</h2>
   </div>
 
   <div>
