@@ -27,36 +27,31 @@
 <div id="features">
   <h1>Effortless Collaboration, Seamless Editing</h1>
   
-  <div>
-      <h2>🔐 Secure Authentication</h2>
-      <p>Harness the power of Clerk for a secure, user-friendly sign-in experience.</p>
-  </div>
+
+  <h2>🔐 Secure Authentication</h2>
+  <p>Harness the power of Clerk for a secure, user-friendly sign-in experience.</p>
+
+  <h2>✍️ Real-Time Collaborative Editing</h2>
+  <p>Watch your ideas come to life as multiple users edit documents together, with changes reflected in real-time.</p>
   
-  <div>
-      <h2>✍️ Real-Time Collaborative Editing</h2>
-      <p>Watch your ideas come to life as multiple users edit documents together, with changes reflected in real-time.</p>
-  </div>
   
-  <div>
-      <h2>📂 Master Your Documents</h2>
-      <div>
-          <div>
-              <h3>Create with Confidence</h3>
-              <p>Start fresh with new documents that auto-save and organize themselves in your personal library.</p>
-          </div>
-          <div>
-              <h3>Effortless Removal</h3>
-              <p>Clean up your space by easily deleting documents you no longer need.</p>
-          </div>
-          <div>
-              <h3>Share Your Vision</h3>
-              <p>Empower collaboration by sharing documents through email or links, with customizable access rights.</p>
-          </div>
-          <div>
-              <h3>Organize at a Glance</h3>
-              <p>Navigate through your document collection with ease, thanks to advanced search and sorting options.</p>
-          </div>
-      </div>
+  <h2>📂 Master Your Documents</h2>
+  
+  
+  <h3>Create with Confidence</h3>
+  <p>Start fresh with new documents that auto-save and organize themselves in your personal library.</p>
+  
+  
+  <h3>Effortless Removal</h3>
+  <p>Clean up your space by easily deleting documents you no longer need.</p>
+  
+  
+  <h3>Share Your Vision</h3>
+  <p>Empower collaboration by sharing documents through email or links, with customizable access rights.</p>
+  
+  
+  <h3>Organize at a Glance</h3>
+  <p>Navigate through your document collection with ease, thanks to advanced search and sorting options.</p>
   </div>
   
   <div>
