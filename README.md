@@ -1,1 +1,1 @@
-![logoxdocs1](https://github.com/user-attachments/assets/e0bbfd49-f7ad-460d-831a-fa63237d8224)
+![logoxdocs](https://github.com/user-attachments/assets/03618e27-1d0b-4aeb-97fa-31aadb7ade9c)
