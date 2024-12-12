@@ -11,36 +11,17 @@
 ## <div id="introduction">
   <h2> <a name="tech-stack">Intro</a></h2>
  
- <h2>A real-time collaborative document editor that's secure, responsive, and built with modern web technologies for seamless team productivity.</h2>
+  <h2>A real-time collaborative document editor that's secure, responsive, and built with modern web technologies for seamless team productivity.</h2>
 </div>
 
 <div id="tech-stack">
   <h2>⚙️ <a name="tech-stack">Tech Stack</a></h2>
-
-  <div>
-    <strong>Next.js</strong>: Elevate your web development with the speed and simplicity of Next.js, ensuring your applications are fast, scalable, and SEO-friendly.
-    <br/>
-  </div>
-
-  <div>
-    <strong>TypeScript</strong>: Code with confidence using TypeScript, where type safety meets JavaScript, reducing bugs and enhancing development.
-  </div>
-
-  <div>
-    <strong>Liveblocks</strong>: Transform collaboration with Liveblocks, enabling real-time interactions that feel like you're in the same room, even from miles apart.
-  </div>
-
-  <div>
-    <strong>Lexical Editor</strong>: Experience intuitive, rich text editing with Lexical, designed for performance and extensibility in your collaborative documents.
-  </div>
-
-  <div>
-    <strong>ShadCN</strong>: Style your application with the elegance and efficiency of ShadCN, bringing your UI designs to life with minimal fuss.
-  </div>
-
-  <div>
-    <strong>Tailwind CSS</strong>: Craft beautiful, responsive interfaces quickly with Tailwind CSS, the utility-first CSS framework that supercharges your design process.
-  </div>
+- Next.js
+- TypeScript
+- Liveblocks
+- Lexical Editor
+- ShadCN
+- Tailwind CSS
 </div>
 
 <h1>Effortless Collaboration, Seamless Editing</h1>
