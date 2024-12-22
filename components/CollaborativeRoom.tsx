@@ -100,7 +100,6 @@ return (
                     {loading && <p className='text-sm text-gray-400'>saving...</p>}
                     </div>
                     <div className='flex w-full flex-1 justify-end gap-2 sm:gap-3'>
-                    <ActiveCollaborators/>
                     {
                         currentUserType === 'editor' && (
                         <div className=''>
@@ -108,6 +107,8 @@ return (
                         </div>
                         )
                     }
+                    <ActiveCollaborators/>
+
                     <ShareModal
                         roomId={roomId}
                         collaborators={users}
