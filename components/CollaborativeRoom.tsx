@@ -94,19 +94,19 @@ return (
                             className='pointer'
                             />
                         )}
-
+                        {
+                            currentUserType === 'editor' && (
+                            <div className=''>
+                                <DeleteModal roomId={roomId}/>
+                            </div>
+                            )
+                        }           
                     {currentUserType !== 'editor' && !editing && (<p className='view-only-tag'>View Only</p>)}
                     
                     {loading && <p className='text-sm text-gray-400'>saving...</p>}
                     </div>
                     <div className='flex w-full flex-1 justify-end gap-2 sm:gap-3'>
-                    {
-                        currentUserType === 'editor' && (
-                        <div className=''>
-                            <DeleteModal roomId={roomId}/>
-                        </div>
-                        )
-                    }
+
                     <ActiveCollaborators/>
 
                     <ShareModal
