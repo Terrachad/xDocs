@@ -13,7 +13,7 @@ import React from 'react'
 
 const Home = async() => {
   const clerkUser = await currentUser();
-  if(!clerkUser) redirect('/sign-in')
+  if(!clerkUser) return redirect('/sign-in')
   const roomDocuments = await getDocuments(clerkUser.emailAddresses[0].emailAddress);
   return (
     <main className='home-container'>
