@@ -1,18 +1,18 @@
 ![logoxdocs](https://github.com/user-attachments/assets/03618e27-1d0b-4aeb-97fa-31aadb7ade9c)
 
-# Table of Contents
+# 📋 Table of Contents
 
-* [Introduction](#introduction)
-* [Tech Stack](#tech-stack)
-* [Features](#features)
-* [Quick Start](#quick-start)
+* 🚀 [Introduction](#introduction)
+* ⚙️ [Tech Stack](#tech-stack)
+* 🔋 [Features](#features)
+* 🚦 [Quick Start](#quick-start)
 
-# Introduction 
+# 🚀 Introduction 
 <a name="introduction"></a>
 
 A real-time collaborative document editor that's secure, responsive, and built with modern web technologies for seamless team productivity.
 
-# Tech Stack 
+# ⚙️ Tech Stack 
 <a name="tech-stack"></a>
 
 * Next.js
@@ -22,10 +22,10 @@ A real-time collaborative document editor that's secure, responsive, and built w
 * ShadCN
 * Tailwind CSS
 
-# Features 
+# 🔋 Features 
 <a name="features"></a>
 
-## Effortless Collaboration, Seamless Editing
+## ✨ Effortless Collaboration, Seamless Editing
 
 ### 🔐 Secure Authentication
 
@@ -37,16 +37,16 @@ Watch your ideas come to life as multiple users edit documents together, with ch
 
 ### 📂 Master Your Documents
 
-#### Create with Confidence
+#### 📝 Create with Confidence
 Start fresh with new documents that auto-save and organize themselves in your personal library.
 
-#### Effortless Removal
+#### 🗑️ Effortless Removal
 Clean up your space by easily deleting documents you no longer need.
 
-#### Share Your Vision
+#### 🔄 Share Your Vision
 Empower collaboration by sharing documents through email or links, with customizable access rights.
 
-#### Organize at a Glance
+#### 🎯 Organize at a Glance
 Navigate through your document collection with ease, thanks to advanced search and sorting options.
 
 ### 💬 Interactive Comments
