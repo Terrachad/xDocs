@@ -7,10 +7,14 @@
 * 🔋 [Features](#features)
 * 🤸 [Quick Start](#quick-start)
 
+---
+
 # 🚀 Introduction 
 <a name="introduction"></a>
 
 A real-time collaborative document editor that's secure, responsive, and built with modern web technologies for seamless team productivity.
+
+---
 
 # ⚙️ Tech Stack 
 <a name="tech-stack"></a>
@@ -21,6 +25,8 @@ A real-time collaborative document editor that's secure, responsive, and built w
 * Lexical Editor
 * ShadCN
 * Tailwind CSS
+
+---
 
 # 🔋 Features 
 <a name="features"></a>
@@ -64,6 +70,8 @@ Get instant notifications for document shares, fresh comments, and collaborator 
 ### 📱 Responsive Across Devices
 
 Whether on desktop, tablet, or phone, your workspace adapts to fit your device, ensuring productivity anywhere, anytime.
+
+---
 
 # 🤸 Quick Start
 <a name="quick-start"></a>
@@ -118,5 +126,3 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
-
----
