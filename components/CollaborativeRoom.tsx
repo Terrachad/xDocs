@@ -11,6 +11,7 @@ import Image from 'next/image'
 import { updateDocument } from '@/lib/actions/room.actions'
 import Loader from './Loader'
 import ShareModal from './ShareModal'
+import { DeleteModal } from './DeleteModal'
 
 
 const CollaborativeRoom = ( {roomId, roomMetadata, users, currentUserType} : CollaborativeRoomProps) => {
@@ -100,7 +101,13 @@ return (
                     </div>
                     <div className='flex w-full flex-1 justify-end gap-2 sm:gap-3'>
                     <ActiveCollaborators/>
-                    
+                    {
+                        currentUserType === 'editor' && (
+                        <div className=''>
+                            <DeleteModal roomId={roomId}/>
+                        </div>
+                        )
+                    }
                     <ShareModal
                         roomId={roomId}
                         collaborators={users}
